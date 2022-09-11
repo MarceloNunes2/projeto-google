@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    
+
+}
+.container-principal{
+    padding-right: 20px;
+}
+.img-bola[
+    
+]
